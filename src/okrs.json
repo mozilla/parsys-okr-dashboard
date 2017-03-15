@@ -10,9 +10,39 @@
           "progress": 0.0,
           "score": "0.0",
           "scoring": {
-            "0.3": "Initial draft is done",
-            "0.6": "Final version is done",
+            "0.33": "Initial draft is done",
+            "0.66": "Final version is done",
             "1.0": "New blog design is live"
+          }
+        }, {
+          "name": "Housing situation",
+          "description": "I'm living in a new flat",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.33": "At least 5 different flats are visited if not chosen one earlier",
+            "0.66": "Lease is signed for one flat",
+            "1.0": "Financial obligations and budget are updated to new rent amount"
+          }
+        }, {
+          "name": "Productivity improvement",
+          "description": "One new tool allows me to be more productive in my daily life",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.33": "Productivity analysis is done",
+            "0.66": "Missing tool is identified",
+            "1.0": "New tool is in place and used to increase productivity"
+          }
+        }, {
+          "name": "Pirate Party and CCC",
+          "description": "I'm more involved in the Pirate Party as well as CCC",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.33": "I'm registered for online discussion and participated in at least 2 discussions",
+            "0.66": "I have attended at least one meeting of the CCC in Bern",
+            "1.0": "I have attended at least 3 meetings of CCC or Pirate Party"
           }
         }
       ]
@@ -34,14 +64,24 @@
             "1.0": "Second project is finished and implemented"
           }
         }, {
+          "name": "Reps Council - Meetings and Feedback",
+          "description": "At least 80% of meetings I attend and give feedback within 72 hours",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.33": "Objective achieved in April",
+            "0.66": "Objective achieved in May",
+            "1.0": "Objective achieved in June"
+          }
+        }, {
           "name": "Firefox",
           "description": "At least 3 Firefox patches contributed",
           "progress": 0.0,
           "score": "0.0",
           "scoring": {
             "0.33": "1 patch is done",
-            "0.66": "2 patches is done",
-            "1.0": "3 patches is done"
+            "0.66": "2 patches are done",
+            "1.0": "3 patches are done"
           }
         }, {
           "name": "Participation Tools",
@@ -56,7 +96,7 @@
             "1.0": "Second PoC is finished and implemented"
           }
         }, {
-          "name": "Mozilla Switzerland",
+          "name": "Mozilla Switzerland - Events",
           "description": "Organize an event every month",
           "progress": 0.0,
           "score": "0.0",
@@ -64,6 +104,16 @@
             "0.33": "Event in April is organized and done",
             "0.66": "Event in May is organized and done",
             "1.0": "Event in June is organized and done"
+          }
+        }, {
+          "name": "Mozilla Switzerland - Goals",
+          "description": "Goals are achieved and set for the next semester",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.33": "Goals are achieved to 50%",
+            "0.66": "Goals are achieved to 90%",
+            "1.0": "Community Meetup is done and we have new goals"
           }
         }
       ]
@@ -78,9 +128,26 @@
           "progress": 0.0,
           "score": "0.0",
           "scoring": {
-            "0.3": "At least one other testing framework tested to learn",
-            "0.6": "At least 2 other modules interacted with",
-            "1.0": "At least 4 other modules interacted with"
+            "0.5": "At least one other testing framework tested to learn",
+            "1.0": "At least 20% of features are developed on a TDD basis"
+          }
+        }, {
+          "name": "Module interaction",
+          "description": "",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.5": "At least one other modules interacted with",
+            "1.0": "At least two other modules interacted with"
+          }
+        }, {
+          "name": "Dev Env",
+          "description": "",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.5": "Local dev env is stable enough for work without Brain",
+            "1.0": "Emulator is working with more than predefined devices"
           }
         }
       ]
