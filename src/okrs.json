@@ -1,0 +1,89 @@
+{
+  "objectives": [
+    {
+      "name": "Personal",
+      "okrs": ["Personal"],
+      "results": [
+        {
+          "name": "Blog is updated",
+          "description": "Blog has a new design that fits to mkohler.codes",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.3": "Initial draft is done",
+            "0.6": "Final version is done",
+            "1.0": "New blog design is live"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Volunteering",
+      "okrs": ["Mozilla", "Open Source"],
+      "results": [
+        {
+          "name": "Reps Council - Driving projects",
+          "description": "I keep driving at least 2 projects at Council level",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.2": "Two projects are identified",
+            "0.4": "50% of the first project is done",
+            "0.6": "50% of the second project is done",
+            "0.8": "First project is finished and implemented",
+            "1.0": "Second project is finished and implemented"
+          }
+        }, {
+          "name": "Firefox",
+          "description": "At least 3 Firefox patches contributed",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.33": "1 patch is done",
+            "0.66": "2 patches is done",
+            "1.0": "3 patches is done"
+          }
+        }, {
+          "name": "Participation Tools",
+          "description": "At least 2 PoC delivered",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.2": "Two PoC are identified",
+            "0.4": "50% of the first PoC is done",
+            "0.6": "50% of the second PoC is done",
+            "0.8": "First PoC is finished and implemented",
+            "1.0": "Second PoC is finished and implemented"
+          }
+        }, {
+          "name": "Mozilla Switzerland",
+          "description": "Organize an event every month",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.33": "Event in April is organized and done",
+            "0.66": "Event in May is organized and done",
+            "1.0": "Event in June is organized and done"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Work",
+      "okrs": ["Work"],
+      "results": [
+        {
+          "name": "Testing",
+          "description": "",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.3": "At least one other testing framework tested to learn",
+            "0.6": "At least 2 other modules interacted with",
+            "1.0": "At least 4 other modules interacted with"
+          }
+        }
+      ]
+    }
+  ]
+}
