@@ -17,7 +17,7 @@
         }, {
           "name": "Housing situation",
           "description": "I'm living in a new flat",
-          "progress": 0.0,
+          "progress": 0.1,
           "score": "0.0",
           "scoring": {
             "0.33": "At least 5 different flats are visited if not chosen one earlier",
@@ -27,8 +27,8 @@
         }, {
           "name": "Productivity improvement",
           "description": "One new tool allows me to be more productive in my daily life",
-          "progress": 0.0,
-          "score": "0.0",
+          "progress": 1,
+          "score": "1.0",
           "scoring": {
             "0.33": "Productivity analysis is done",
             "0.66": "Missing tool is identified",
@@ -37,7 +37,7 @@
         }, {
           "name": "Pirate Party and CCC",
           "description": "I'm more involved in the Pirate Party as well as CCC",
-          "progress": 0.0,
+          "progress": 0.1,
           "score": "0.0",
           "scoring": {
             "0.33": "I'm registered for online discussion and participated in at least 2 discussions",
@@ -54,7 +54,7 @@
         {
           "name": "Reps Council - Driving projects",
           "description": "I keep driving at least 2 projects at Council level",
-          "progress": 0.0,
+          "progress": 0.05,
           "score": "0.0",
           "scoring": {
             "0.2": "Two projects are identified",
@@ -86,7 +86,7 @@
         }, {
           "name": "Participation Tools",
           "description": "At least 2 PoC delivered",
-          "progress": 0.0,
+          "progress": 0.1,
           "score": "0.0",
           "scoring": {
             "0.2": "Two PoC are identified",
@@ -98,7 +98,7 @@
         }, {
           "name": "Mozilla Switzerland - Events",
           "description": "Organize an event every month",
-          "progress": 0.0,
+          "progress": 0.2,
           "score": "0.0",
           "scoring": {
             "0.33": "Event in April is organized and done",
@@ -108,7 +108,7 @@
         }, {
           "name": "Mozilla Switzerland - Goals",
           "description": "Goals are achieved and set for the next semester",
-          "progress": 0.0,
+          "progress": 0.2,
           "score": "0.0",
           "scoring": {
             "0.33": "Goals are achieved to 50%",
@@ -134,7 +134,7 @@
         }, {
           "name": "Module interaction",
           "description": "",
-          "progress": 0.0,
+          "progress": 0.2,
           "score": "0.0",
           "scoring": {
             "0.5": "At least one other modules interacted with",
@@ -143,7 +143,7 @@
         }, {
           "name": "Dev Env",
           "description": "",
-          "progress": 0.0,
+          "progress": 0.3,
           "score": "0.0",
           "scoring": {
             "0.5": "Local dev env is stable enough for work without Brain",
