@@ -44,6 +44,16 @@
             "0.66": "I have attended at least one meeting of the CCC in Bern",
             "1.0": "I have attended at least 3 meetings of CCC or Pirate Party"
           }
+        }, {
+          "name": "TV Series",
+          "description": "",
+          "progress": 0.1,
+          "score": "0.0",
+          "scoring": {
+            "0.33": "Checking for new episodes is mostly automated",
+            "0.66": "Simple and easily reachable overview of open episodes",
+            "1.0": "Count is below 15 tv series"
+          }
         }
       ]
     },
@@ -54,8 +64,8 @@
         {
           "name": "Reps Council - Driving projects",
           "description": "I keep driving at least 2 projects at Council level",
-          "progress": 0.05,
-          "score": "0.0",
+          "progress": 0.2,
+          "score": "0.2",
           "scoring": {
             "0.2": "Two projects are identified",
             "0.4": "50% of the first project is done",
@@ -86,8 +96,8 @@
         }, {
           "name": "Participation Tools",
           "description": "At least 2 PoC delivered",
-          "progress": 0.1,
-          "score": "0.0",
+          "progress": 0.2,
+          "score": "0.2",
           "scoring": {
             "0.2": "Two PoC are identified",
             "0.4": "50% of the first PoC is done",
@@ -125,7 +135,7 @@
         {
           "name": "Testing",
           "description": "",
-          "progress": 0.0,
+          "progress": 0.2,
           "score": "0.0",
           "scoring": {
             "0.5": "At least one other testing framework tested to learn",
@@ -134,7 +144,7 @@
         }, {
           "name": "Module interaction",
           "description": "",
-          "progress": 0.2,
+          "progress": 0.3,
           "score": "0.0",
           "scoring": {
             "0.5": "At least one other modules interacted with",
@@ -143,7 +153,7 @@
         }, {
           "name": "Dev Env",
           "description": "",
-          "progress": 0.3,
+          "progress": 0.4,
           "score": "0.0",
           "scoring": {
             "0.5": "Local dev env is stable enough for work without Brain",
