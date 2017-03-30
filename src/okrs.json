@@ -10,8 +10,10 @@
           "progress": 0.0,
           "score": "0.0",
           "scoring": {
-            "0.33": "Initial draft is done",
-            "0.66": "Final version is done",
+            "0.2": "Initial idea is sketched",
+            "0.4": "Initial draft is done",
+            "0.6": "Feedback received",
+            "0.8": "Final version is done",
             "1.0": "New blog design is live"
           }
         }, {
@@ -42,17 +44,17 @@
           "scoring": {
             "0.33": "I'm registered for online discussion and participated in at least 2 discussions",
             "0.66": "I have attended at least one meeting of the CCC in Bern",
-            "1.0": "I have attended at least 3 meetings of CCC or Pirate Party"
+            "1.0": "I have attended at least 2 meetings of CCC or Pirate Party"
           }
         }, {
           "name": "TV Series",
           "description": "",
-          "progress": 0.1,
-          "score": "0.0",
+          "progress": 0.4,
+          "score": "0.33",
           "scoring": {
-            "0.33": "Checking for new episodes is mostly automated",
-            "0.66": "Simple and easily reachable overview of open episodes",
-            "1.0": "Count is below 15 tv series"
+            "0.33": "Simple and easily reachable overview of open episodes ideas gathered",
+            "0.66": "Solution is implemented",
+            "1.0": "Solution is published"
           }
         }
       ]
@@ -68,10 +70,10 @@
           "score": "0.2",
           "scoring": {
             "0.2": "Two projects are identified",
-            "0.4": "50% of the first project is done",
-            "0.6": "50% of the second project is done",
-            "0.8": "First project is finished and implemented",
-            "1.0": "Second project is finished and implemented"
+            "0.4": "25% of the projects are done",
+            "0.6": "50% of the projects are done",
+            "0.8": "75% of the projects are done",
+            "1.0": "100% of the projects are done"
           }
         }, {
           "name": "Reps Council - Meetings and Feedback",
@@ -79,9 +81,11 @@
           "progress": 0.0,
           "score": "0.0",
           "scoring": {
-            "0.33": "Objective achieved in April",
-            "0.66": "Objective achieved in May",
-            "1.0": "Objective achieved in June"
+            "0.2": "Objective is achieved to 20%",
+            "0.4": "Objective is achieved to 40%",
+            "0.6": "Objective is achieved to 60%",
+            "0.8": "Objective is achieved to 80%",
+            "1.0": "Objective is achieved to 100%"
           }
         }, {
           "name": "Firefox",
@@ -99,11 +103,11 @@
           "progress": 0.2,
           "score": "0.2",
           "scoring": {
-            "0.2": "Two PoC are identified",
-            "0.4": "50% of the first PoC is done",
-            "0.6": "50% of the second PoC is done",
-            "0.8": "First PoC is finished and implemented",
-            "1.0": "Second PoC is finished and implemented"
+            "0.2": "Two projects are identified",
+            "0.4": "25% of the projects are done",
+            "0.6": "50% of the projects are done",
+            "0.8": "75% of the projects are done",
+            "1.0": "100% of the projects are done"
           }
         }, {
           "name": "Mozilla Switzerland - Events",
@@ -111,34 +115,39 @@
           "progress": 0.2,
           "score": "0.0",
           "scoring": {
-            "0.33": "Event in April is organized and done",
-            "0.66": "Event in May is organized and done",
-            "1.0": "Event in June is organized and done"
+            "0.33": "1 event is organized and done",
+            "0.66": "2 events are organized and done",
+            "1.0": "3 events are organized and done"
           }
         }, {
           "name": "Mozilla Switzerland - Goals",
           "description": "Goals are achieved and set for the next semester",
-          "progress": 0.2,
-          "score": "0.0",
+          "progress": 0.3,
+          "score": "0.2",
           "scoring": {
-            "0.33": "Goals are achieved to 50%",
-            "0.66": "Goals are achieved to 90%",
+            "0.2": "Goals are achieved to 25%",
+            "0.4": "Goals are achieved to 50%",
+            "0.6": "Goals are achieved to 75%",
+            "0.8": "Goals are achieved to 100%",
             "1.0": "Community Meetup is done and we have new goals"
           }
         }
       ]
     },
     {
-      "name": "Work",
-      "okrs": ["Work"],
+      "name": "Professional",
+      "okrs": ["Work", "Learning"],
       "results": [
         {
           "name": "Testing",
           "description": "",
-          "progress": 0.2,
+          "progress": 0.1,
           "score": "0.0",
           "scoring": {
-            "0.5": "At least one other testing framework tested to learn",
+            "0.2": "At least one other testing framework tested to learn",
+            "0.4": "At least 5% of features are developed on a TDD basis",
+            "0.6": "At least 10% of features are developed on a TDD basis",
+            "0.8": "At least 15% of features are developed on a TDD basis",
             "1.0": "At least 20% of features are developed on a TDD basis"
           }
         }, {
@@ -147,17 +156,8 @@
           "progress": 0.3,
           "score": "0.0",
           "scoring": {
-            "0.5": "At least one other modules interacted with",
-            "1.0": "At least two other modules interacted with"
-          }
-        }, {
-          "name": "Dev Env",
-          "description": "",
-          "progress": 0.4,
-          "score": "0.0",
-          "scoring": {
-            "0.5": "Local dev env is stable enough for work without Brain",
-            "1.0": "Emulator is working with more than predefined devices"
+            "0.5": "One other module interacted with",
+            "1.0": "Two other modules interacted with"
           }
         }
       ]
