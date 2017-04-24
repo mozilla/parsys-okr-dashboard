@@ -49,7 +49,7 @@
         }, {
           "name": "TV Series",
           "description": "",
-          "progress": 0.8,
+          "progress": 0.9,
           "score": "0.66",
           "scoring": {
             "0.33": "Simple and easily reachable overview of open episodes ideas gathered",
@@ -66,8 +66,8 @@
         {
           "name": "Reps Council - Driving projects",
           "description": "I keep driving at least 2 projects at Council level",
-          "progress": 0.3,
-          "score": "0.2",
+          "progress": 0.5,
+          "score": "0.4",
           "scoring": {
             "0.2": "Two projects are identified",
             "0.4": "25% of the projects are done",
@@ -78,8 +78,8 @@
         }, {
           "name": "Reps Council - Meetings and Feedback",
           "description": "At least 80% of meetings I attend and give feedback within 72 hours",
-          "progress": 0.2,
-          "score": "0.2",
+          "progress": 0.4,
+          "score": "0.4",
           "scoring": {
             "0.2": "Objective is achieved to 20%",
             "0.4": "Objective is achieved to 40%",
@@ -90,7 +90,7 @@
         }, {
           "name": "Firefox",
           "description": "At least 3 Firefox patches contributed",
-          "progress": 0.5,
+          "progress": 0.7,
           "score": "0.0",
           "scoring": {
             "0.33": "1 patch is done",
@@ -100,8 +100,8 @@
         }, {
           "name": "Participation Tools",
           "description": "At least 2 PoC delivered",
-          "progress": 0.2,
-          "score": "0.2",
+          "progress": 0.4,
+          "score": "0.4",
           "scoring": {
             "0.2": "Two projects are identified",
             "0.4": "25% of the projects are done",
@@ -141,8 +141,8 @@
         {
           "name": "Testing",
           "description": "",
-          "progress": 0.8,
-          "score": "0.8",
+          "progress": 1.0,
+          "score": "1.0",
           "scoring": {
             "0.2": "At least one other testing framework tested to learn",
             "0.4": "At least 5% of features are developed on a TDD basis",
