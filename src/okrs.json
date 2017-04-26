@@ -1,163 +1,243 @@
 {
   "objectives": [
     {
-      "name": "Personal",
-      "okrs": ["Personal"],
+      "name": "Continue IAM's trajectory delivering a series of highly visible incremental wins",
+      "okrs": ["iam"],
       "results": [
         {
-          "name": "Blog is updated",
-          "description": "Blog has a new design that fits to mkohler.codes",
-          "progress": 1.0,
-          "score": "1.0",
+          "name": "SSO Dashboard",
+          "description": "Ship the enterprise application SSO Dashboard",
+          "progress": 0,
+          "score": "0",
           "scoring": {
-            "0.2": "Initial idea is sketched",
-            "0.4": "Initial draft is done",
-            "0.6": "Feedback received",
-            "0.8": "Final version is done",
-            "1.0": "New blog design is live"
+            "10": "",
+            "20": "",
+            "30": "",
+            "40": "",
+            "50": "",
+            "60": "",
+            "70": "",
+            "80": "",
+            "90": "",
+            "100": ""
           }
         }, {
-          "name": "Housing situation",
-          "description": "I'm living in a new flat",
-          "progress": 0.1,
-          "score": "0.0",
+          "name": "Auth0 Lock",
+          "description": "Refresh the Auth0 Lock/Sign-up flow for Mozillians.org",
+          "progress": 0,
+          "score": "0",
           "scoring": {
-            "0.33": "At least 5 different flats are visited if not chosen one earlier",
-            "0.66": "Lease is signed for one flat",
-            "1.0": "Financial obligations and budget are updated to new rent amount"
+              "10": "",
+              "20": "",
+              "30": "",
+              "40": "",
+              "50": "",
+              "60": "",
+              "70": "",
+              "80": "",
+              "90": "",
+              "100": ""
           }
         }, {
-          "name": "Productivity improvement",
-          "description": "One new tool allows me to be more productive in my daily life",
-          "progress": 1,
-          "score": "1.0",
+          "name": "Auth0 identity",
+          "description": "Roll out Auth0 identity to G Suite, Mana, The Hub, IRCcloud (see https://app.productplan.com/xonua5Ar)",
+          "progress": 0,
+          "score": "0",
           "scoring": {
-            "0.33": "Productivity analysis is done",
-            "0.66": "Missing tool is identified",
-            "1.0": "New tool is in place and used to increase productivity"
+              "10": "",
+              "20": "",
+              "30": "",
+              "40": "",
+              "50": "",
+              "60": "",
+              "70": "",
+              "80": "",
+              "90": "",
+              "100": ""
           }
         }, {
-          "name": "Pirate Party and CCC",
-          "description": "I'm more involved in the Pirate Party as well as CCC",
-          "progress": 0.2,
-          "score": "0.0",
+          "name": "D&I",
+          "description": "Prototypes are tested with low-bandwidth and prepared for non-English personas",
+          "progress": 0,
+          "score": "0",
           "scoring": {
-            "0.33": "I'm registered for online discussion and participated in at least 2 discussions",
-            "0.66": "I have attended at least one meeting of the CCC in Bern",
-            "1.0": "I have attended at least 2 meetings of CCC or Pirate Party"
+              "10": "",
+              "20": "",
+              "30": "",
+              "40": "",
+              "50": "",
+              "60": "",
+              "70": "",
+              "80": "",
+              "90": "",
+              "100": ""
           }
         }, {
-          "name": "TV Series",
-          "description": "",
-          "progress": 0.9,
-          "score": "0.66",
+          "name": "LDAP Integration",
+          "description": "A mocked volunteer Mozillians.org profile which was provisioned to LDAP via CIS is retrieved through Auth0",
+          "progress": 0,
+          "score": "0",
           "scoring": {
-            "0.33": "Simple and easily reachable overview of open episodes ideas gathered",
-            "0.66": "Solution is implemented",
-            "1.0": "Solution is published"
+              "10": "",
+              "20": "",
+              "30": "",
+              "40": "",
+              "50": "",
+              "60": "",
+              "70": "",
+              "80": "",
+              "90": "",
+              "100": ""
+          }
+        }, {
+          "name": "Infrastructure",
+          "description": "Mozillians.org is migrated to ParSys AWS",
+          "progress": 0,
+          "score": "0",
+          "scoring": {
+              "10": "",
+              "20": "",
+              "30": "",
+              "40": "",
+              "50": "",
+              "60": "",
+              "70": "",
+              "80": "",
+              "90": "",
+              "100": ""
           }
         }
       ]
     },
     {
-      "name": "Volunteering",
-      "okrs": ["Mozilla", "Open Source"],
+      "name": "Community Support Software demonstrates progress in improving the targeted volunteer user experience and increasing efficiency for the program managers",
+      "okrs": ["coss"],
       "results": [
         {
-          "name": "Reps Council - Driving projects",
-          "description": "I keep driving at least 2 projects at Council level",
-          "progress": 0.5,
-          "score": "0.4",
+          "name": "Ship CoSS Iteration 1",
+          "description": "Ship CoSS iteration 1 utilities for CMS, CRM integration, and Events available for Mozilla Clubs & Campus Clubs",
+          "progress": 0,
+          "score": "0",
           "scoring": {
-            "0.2": "Two projects are identified",
-            "0.4": "25% of the projects are done",
-            "0.6": "50% of the projects are done",
-            "0.8": "75% of the projects are done",
-            "1.0": "100% of the projects are done"
+              "10": "",
+              "20": "",
+              "30": "",
+              "40": "",
+              "50": "",
+              "60": "",
+              "70": "",
+              "80": "",
+              "90": "",
+              "100": ""
           }
         }, {
-          "name": "Reps Council - Meetings and Feedback",
-          "description": "At least 80% of meetings I attend and give feedback within 72 hours",
-          "progress": 0.4,
-          "score": "0.4",
+          "name": "Developer Marketing Pilot",
+          "description": "CoSS project adds a third program, Developer Marketing Pilot",
+          "progress": 0,
+          "score": "0",
           "scoring": {
-            "0.2": "Objective is achieved to 20%",
-            "0.4": "Objective is achieved to 40%",
-            "0.6": "Objective is achieved to 60%",
-            "0.8": "Objective is achieved to 80%",
-            "1.0": "Objective is achieved to 100%"
+              "10": "",
+              "20": "",
+              "30": "",
+              "40": "",
+              "50": "",
+              "60": "",
+              "70": "",
+              "80": "",
+              "90": "",
+              "100": ""
           }
         }, {
-          "name": "Firefox",
-          "description": "At least 3 Firefox patches contributed",
-          "progress": 0.7,
-          "score": "0.0",
+          "name": "ExactTarget",
+          "description": "Program managers can segment their audience in ExactTarget",
+          "progress": 0,
+          "score": "0",
           "scoring": {
-            "0.33": "1 patch is done",
-            "0.66": "2 patches are done",
-            "1.0": "3 patches are done"
+              "10": "",
+              "20": "",
+              "30": "",
+              "40": "",
+              "50": "",
+              "60": "",
+              "70": "",
+              "80": "",
+              "90": "",
+              "100": ""
           }
         }, {
-          "name": "Participation Tools",
-          "description": "At least 2 PoC delivered",
-          "progress": 0.4,
-          "score": "0.4",
+          "name": "D&I",
+          "description": "Prototypes are tested with both existing community and a key (targeted: non-English) persona",
+          "progress": 0,
+          "score": "0",
           "scoring": {
-            "0.2": "Two projects are identified",
-            "0.4": "25% of the projects are done",
-            "0.6": "50% of the projects are done",
-            "0.8": "75% of the projects are done",
-            "1.0": "100% of the projects are done"
-          }
-        }, {
-          "name": "Mozilla Switzerland - Events",
-          "description": "Organize an event every month",
-          "progress": 0.2,
-          "score": "0.0",
-          "scoring": {
-            "0.33": "1 event is organized and done",
-            "0.66": "2 events are organized and done",
-            "1.0": "3 events are organized and done"
-          }
-        }, {
-          "name": "Mozilla Switzerland - Goals",
-          "description": "Goals are achieved and set for the next semester",
-          "progress": 0.3,
-          "score": "0.2",
-          "scoring": {
-            "0.2": "Goals are achieved to 25%",
-            "0.4": "Goals are achieved to 50%",
-            "0.6": "Goals are achieved to 75%",
-            "0.8": "Goals are achieved to 100%",
-            "1.0": "Community Meetup is done and we have new goals"
+              "10": "",
+              "20": "",
+              "30": "",
+              "40": "",
+              "50": "",
+              "60": "",
+              "70": "",
+              "80": "",
+              "90": "",
+              "100": ""
           }
         }
       ]
     },
     {
-      "name": "Professional",
-      "okrs": ["Work", "Learning"],
+      "name": "Migrate Mozilla's community sites to WPengine in order to have these WordPress sites on a secure, reliable, maintained infrastructure",
+      "okrs": ["infra"],
       "results": [
         {
-          "name": "Testing",
-          "description": "",
-          "progress": 1.0,
-          "score": "1.0",
+          "name": "WPadmin",
+          "description": "100% of existing ParSys WPadmin hosted community sites migrated",
+          "progress": 0,
+          "score": "0",
           "scoring": {
-            "0.2": "At least one other testing framework tested to learn",
-            "0.4": "At least 5% of features are developed on a TDD basis",
-            "0.6": "At least 10% of features are developed on a TDD basis",
-            "0.8": "At least 15% of features are developed on a TDD basis",
-            "1.0": "At least 20% of features are developed on a TDD basis"
+              "10": "",
+              "20": "",
+              "30": "",
+              "40": "",
+              "50": "",
+              "60": "",
+              "70": "",
+              "80": "",
+              "90": "",
+              "100": ""
           }
         }, {
-          "name": "Module interaction",
-          "description": "",
-          "progress": 0.5,
-          "score": "0.5",
+          "name": "Community Sites",
+          "description": "1 additional community site migrated",
+          "progress": 0,
+          "score": "0",
           "scoring": {
-            "0.5": "One other module interacted with",
-            "1.0": "Two other modules interacted with"
+              "10": "",
+              "20": "",
+              "30": "",
+              "40": "",
+              "50": "",
+              "60": "",
+              "70": "",
+              "80": "",
+              "90": "",
+              "100": ""
+          }
+        }, {
+          "name": "MCWS",
+          "description": "Existing Mozilla Community Web Services (MCWS) team is empowered to create the community sites transition plan",
+          "progress": 0,
+          "score": "0",
+          "scoring": {
+              "10": "",
+              "20": "",
+              "30": "",
+              "40": "",
+              "50": "",
+              "60": "",
+              "70": "",
+              "80": "",
+              "90": "",
+              "100": ""
           }
         }
       ]
