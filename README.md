@@ -11,6 +11,13 @@ $ npm install
 $ npm start
 ```
 
+## Deploy
+
+```
+$ npm run build
+$ ./node_modules/gh-pages/bin/gh-pages -d build -r git@github.com:<username/org>/<reponame>.git
+```
+
 ## License
 
 [MPL-2.0](LICENSE)
